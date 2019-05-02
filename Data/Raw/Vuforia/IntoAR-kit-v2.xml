@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="speed" size="1.000000 1.168103" />
+    <ImageTarget name="audio" size="1.000000 1.168103" />
+    <ImageTarget name="tap" size="1.000000 1.163793" />
+    <ImageTarget name="press" size="1.000000 1.163793" />
+    <ImageTarget name="drag" size="1.000000 1.163793" />
+    <ImageTarget name="weight" size="1.000000 1.163793" />
+    <ImageTarget name="vis" size="1.000000 1.163793" />
+    <ImageTarget name="smell" size="1.000000 1.163793" />
+    <ImageTarget name="color" size="1.000000 1.163793" />
+    <ImageTarget name="time" size="1.000000 1.163793" />
+    <ImageTarget name="emotion" size="1.000000 1.163793" />
+    <ImageTarget name="rotate" size="1.000000 1.163793" />
+  </Tracking>
+</QCARConfig>
